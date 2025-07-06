@@ -9,9 +9,7 @@ Task Status: Mark tasks as "Open" or "Closed" to monitor progress.
 Filter: Quickly find tasks using filtering options.
 Responsive Design: Seamlessly works on desktop, tablet, and mobile devices.
 ScreenShoots
-![alt text]([http://url/to/img.png](https://github.com/abdallah116294/TODO_Web_App/blob/master/TODO_Web_App/ScreenShots/WhatsApp%20Image%202025-07-06%20at%2011.01.19_2238a5e0.jpg))
-![alt text]([http://url/to/img.png](https://github.com/abdallah116294/TODO_Web_App/blob/master/TODO_Web_App/ScreenShots/WhatsApp%20Image%202025-07-06%20at%2011.01.50_7dd2b8d0.jpg))
-![alt text]([http://url/to/img.png](https://github.com/abdallah116294/TODO_Web_App/blob/master/TODO_Web_App/ScreenShots/WhatsApp%20Image%202025-07-06%20at%2011.02.14_04b6d7b8.jpg))
+![screenshot](TODO_Web_App/ScreenShots/WhatsApp Image 2025-07-06 at 11.02.14_04b6d7b8.jpg)
 Installation
 
 Clone the repository:git [clone https://github.com/username/todo-web-app.git](https://github.com/abdallah116294/TODO_Web_App/tree/master)
