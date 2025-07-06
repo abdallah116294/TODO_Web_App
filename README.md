@@ -13,13 +13,4 @@
   <img src="TODO_Web_App/ScreenShots/WhatsApp Image 2025-07-06 at 11.01.19_2238a5e0.jpg" width="400" alt="accessibility text">
   <img src="TODO_Web_App/ScreenShots/WhatsApp Image 2025-07-06 at 11.01.50_7dd2b8d0.jpg" width="400" title="hover text">
 </p>
-Clone the repository:git [clone https://github.com/username/todo-web-app.git](https://github.com/abdallah116294/TODO_Web_App/tree/master)
-**Usage**
-- Open the application in your browser.
-- Create tasks by entering task details, assigning categories, and setting due dates.
-- Use filters to find specific tasks.
-- Update task status or delete tasks as needed.
-- Access the app from any device for a consistent experience.
-- Open a pull request.
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+Clone the repository:git (https://github.com/abdallah116294/TODO_Web_App/tree/master)
