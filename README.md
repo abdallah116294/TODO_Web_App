@@ -13,4 +13,4 @@
   <img src="TODO_Web_App/ScreenShots/WhatsApp Image 2025-07-06 at 11.01.19_2238a5e0.jpg" width="400" alt="accessibility text">
   <img src="TODO_Web_App/ScreenShots/WhatsApp Image 2025-07-06 at 11.01.50_7dd2b8d0.jpg" width="400" title="hover text">
 </p>
-Clone the repository:git (https://github.com/abdallah116294/TODO_Web_App/tree/master)
+Clone the repository:git (https://github.com/abdallah116294/TODO_Web_App)
